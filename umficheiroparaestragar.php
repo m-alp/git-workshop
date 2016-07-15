@@ -1,3 +1,3 @@
 <?php 
-echo "O Miguel vai-me estragar este ficheiro"
+echo "O Miguel vai-me estragar este ficheiro";
 
