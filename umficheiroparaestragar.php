@@ -1,5 +1,5 @@
 <?php 
-echo "O Miguel vai-me estragar este ficheiro";
+echo "O Joao Magalhaes é um chato! e vai-me estragar este ficheiro";
 
 
 ?>
